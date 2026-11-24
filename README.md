@@ -7,10 +7,10 @@ Junior Data Scientist from Mar del Plata, Argentina (open to remote). I build ma
 
 ## Featured projects
 
-**[Credit Default Risk Prediction: End-to-End MLOps Pipeline](https://github.com/ezequielirianni/mlops_pipeline)**
+**[Credit Default Risk Prediction: End-to-End MLOps Pipeline](https://github.com/ezequielirianni/credit-risk-mlops-pipeline)** · [Live demo](https://credit-risk-monitoring.streamlit.app/)
 Predicts late-payment risk for new loan applicants on a 95/5 imbalanced dataset. Leakage control, model comparison with stratified cross-validation, data drift monitoring in Streamlit, and a FastAPI batch-prediction API in Docker.
 
-**[Gift Recommendation Assistant for E-commerce](https://github.com/MafeLopezQuintana/asistente-regalos-ecommerce)** (Henry Capstone, team of 5)
+**[Gift Recommendation Assistant for E-commerce](https://github.com/MafeLopezQuintana/asistente-regalos-ecommerce)** (Henry Capstone, team of 5) · [Live demo](https://quele-regalo.streamlit.app/)
 I led the modeling workstream: item-item collaborative filtering reached 4.6x the Hit Rate@5 of a popularity baseline on 990K+ transactions, with experiments tracked in MLflow and CI in GitHub Actions.
 
 ## Tech stack
@@ -23,3 +23,4 @@ I led the modeling workstream: item-item collaborative filtering reached 4.6x th
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/ezequielirianni/) · ezequielirianni@gmail.com
+
